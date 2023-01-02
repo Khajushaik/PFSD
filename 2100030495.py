@@ -1,0 +1,1 @@
+print("2100030495 - AM ABSENT TODAY")
